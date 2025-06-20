@@ -9,3 +9,11 @@ bun install
 
 bun run dev
 ```
+
+```shell
+bun run build
+```
+
+```shell
+bun run dev
+```
