@@ -1,6 +1,6 @@
 <script lang="ts">
-    import cyberhealth from './assets/cyberhealth.png'
-    import healthreserve from './assets/healthreserve.png'
+    import cyberhealth from './assets/1.jpg'
+    import healthreserve from './assets/2.jpg'
 </script>
 
 <main>
@@ -12,8 +12,8 @@
                 </figure>
             </div>
             <div class="media-content">
-                <p class="title">Цифровой тест
-                    <nobr>на Здоровье</nobr>
+                <p class="title">
+                    Диагностика Базовой Функциональной Готовности
                 </p>
             </div>
         </div>
@@ -27,7 +27,7 @@
                         </a>
                     </p>
                     <a href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com">
-                        <figure class="image">
+                        <figure class="image is-1by1">
                             <img src="{cyberhealth}" alt="cyberhealth"/>
                         </figure>
                     </a>
@@ -42,7 +42,7 @@
                         </a>
                     </p>
                     <a href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com">
-                        <figure class="image is-fullwidth">
+                        <figure class="image is-1by1">
                             <img src="{healthreserve}" alt="healthreserve"/>
                         </figure>
                     </a>
