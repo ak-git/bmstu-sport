@@ -22,11 +22,11 @@
                 <article class="panel is-warning">
                     <p class="panel-heading">
                         <a class="tag is-rounded is-large is-hoverable"
-                           href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com">
+                           href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com/?isSport">
                             Диагностика
                         </a>
                     </p>
-                    <a href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com">
+                    <a href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com/?isSport">
                         <figure class="image is-1by1">
                             <img src="{cyberhealth}" alt="cyberhealth"/>
                         </figure>
@@ -37,11 +37,11 @@
                 <article class="panel is-danger">
                     <p class="panel-heading">
                         <a class="tag is-rounded is-large is-hoverable"
-                           href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com">
+                           href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com/?isSport">
                             База данных
                         </a>
                     </p>
-                    <a href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com">
+                    <a href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com/?isSport">
                         <figure class="image is-1by1">
                             <img src="{healthreserve}" alt="healthreserve"/>
                         </figure>
