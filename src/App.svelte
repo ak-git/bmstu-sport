@@ -19,7 +19,7 @@
         </div>
         <div class="hero-body container box has-text-centered columns">
             <div class="column">
-                <article class="panel is-warning">
+                <article class="panel is-info">
                     <p class="panel-heading">
                         <a class="tag is-rounded is-large is-hoverable"
                            href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com/?isSport">
@@ -34,7 +34,7 @@
                 </article>
             </div>
             <div class="column">
-                <article class="panel is-danger">
+                <article class="panel is-primary">
                     <p class="panel-heading">
                         <a class="tag is-rounded is-large is-hoverable"
                            href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com/?isSport">
