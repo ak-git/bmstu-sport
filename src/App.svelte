@@ -13,7 +13,7 @@
             </div>
             <div class="media-content">
                 <p class="title">
-                    Диагностика Базовой Функциональной Готовности
+                    БФГ-тест
                 </p>
             </div>
         </div>
@@ -23,7 +23,7 @@
                     <p class="panel-heading">
                         <a class="tag is-rounded is-large is-hoverable"
                            href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com">
-                            Кибер Здоровье
+                            Диагностика
                         </a>
                     </p>
                     <a href="http://www.cyberhealth.ru.s3-website-us-east-1.amazonaws.com">
@@ -38,7 +38,7 @@
                     <p class="panel-heading">
                         <a class="tag is-rounded is-large is-hoverable"
                            href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com">
-                            Запас Здоровья
+                            База данных
                         </a>
                     </p>
                     <a href="http://www.healthreserve.ru.s3-website-us-east-1.amazonaws.com">
